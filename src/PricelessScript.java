@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Bryan Maus
+ *
+ * @since Version 1.0
+ *
+ */
 import java.text.NumberFormat;
 
 public class PricelessScript {
